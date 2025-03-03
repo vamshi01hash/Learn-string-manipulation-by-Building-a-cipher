@@ -1,5 +1,5 @@
 
-
+#string manipulation by building a cipher 
     text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'python'
 
